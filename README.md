@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ninjafella
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning the discord API
-- 📫 How to reach me: discord ninjafella#8777
+- 🌱 I’m currently learning the Discord API
+- 📫 How to reach me: Discord ninjafella#8777
 
 <!---
 ninjafella/ninjafella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
