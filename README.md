@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ninjafella<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning the Discord API<br>- 📫 How to reach me: Discord ninjafella#8777<br><br>Check out my Discord bot (Googly) at https://googlybot.xyz/
+- 👋 Hi, I’m @ninjafella
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning the Discord API
+- 📫 How to reach me: Discord ninjafella#8777
+
+Check out my Discord bot (Googly) at https://googlybot.xyz/
 
 
 ## 🌐 Socials:
@@ -12,11 +17,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ninjafella&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjafella&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ninjafella&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/googlybot) 
+## 💰 You can help me by Donating
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/googlybot) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
